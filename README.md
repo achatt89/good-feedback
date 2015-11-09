@@ -5,6 +5,7 @@ This is an open source document for web designers to modify and adapt as they se
 - Originally published: 3rd November 2015
 - Last updated: 3rd November 2015
 - Written and maintained by Andrew Fairlie http://twitter.com/andiefairlie
+- Original post at http://rye.agency/blog/getting-good-design-feedback-an-open-source-document
 
 ## The Document
 
