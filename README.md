@@ -13,13 +13,12 @@ This is an open source document for web designers to modify and adapt as they se
 
 If you're not a fan of how we've designed something, these steps - in order - will lead to quick and effective resolution:-
 
-Contextualise it in the scope of the project
-
-- Does it work towards the project goals? Does it work against them?
-- Does it serve the people using the site? Question things from their point of view rather than yours.
-- Does it work within the project constraints?
-- If you don't think we've succeeded in point 1, ask us for an explanation about why we did it this way
-- If you're not satisfied with our *explanation* provide an honest and specific explanation about why we're wrong in our explanation - and then leave it with us to think about the solution again
+1. Contextualise it in the scope of the project
+  - Does it work towards the project goals? Does it work against them?
+  - Does it serve the people using the site? Question things from their point of view rather than yours.
+  - Does it work within the project constraints?
+2. If you don't think we've succeeded in point 1, ask us for an explanation about why we did it this way
+3. If you're not satisfied with our *explanation* provide an honest and specific explanation about why we're wrong in our explanation - and then leave it with us to think about the solution again
 
 There are common "feedback gremlins" that seem as though they should be helpful but actually disrupt a project and derail the creative process.  Things like:-
 
